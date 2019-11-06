@@ -1,0 +1,11 @@
+C:\Users\newforce\workspace\cohort-two\dictionaries-review\obj\Debug\netcoreapp2.2\dictionaries-review.csprojAssemblyReference.cache
+C:\Users\newforce\workspace\cohort-two\dictionaries-review\obj\Debug\netcoreapp2.2\dictionaries-review.csproj.CoreCompileInputs.cache
+C:\Users\newforce\workspace\cohort-two\dictionaries-review\obj\Debug\netcoreapp2.2\dictionaries-review.AssemblyInfoInputs.cache
+C:\Users\newforce\workspace\cohort-two\dictionaries-review\obj\Debug\netcoreapp2.2\dictionaries-review.AssemblyInfo.cs
+C:\Users\newforce\workspace\cohort-two\dictionaries-review\bin\Debug\netcoreapp2.2\dictionaries-review.deps.json
+C:\Users\newforce\workspace\cohort-two\dictionaries-review\bin\Debug\netcoreapp2.2\dictionaries-review.runtimeconfig.json
+C:\Users\newforce\workspace\cohort-two\dictionaries-review\bin\Debug\netcoreapp2.2\dictionaries-review.runtimeconfig.dev.json
+C:\Users\newforce\workspace\cohort-two\dictionaries-review\bin\Debug\netcoreapp2.2\dictionaries-review.dll
+C:\Users\newforce\workspace\cohort-two\dictionaries-review\bin\Debug\netcoreapp2.2\dictionaries-review.pdb
+C:\Users\newforce\workspace\cohort-two\dictionaries-review\obj\Debug\netcoreapp2.2\dictionaries-review.dll
+C:\Users\newforce\workspace\cohort-two\dictionaries-review\obj\Debug\netcoreapp2.2\dictionaries-review.pdb
